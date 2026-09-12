@@ -1,4 +1,5 @@
 # Simple Calculator
+Simple CalculatorA menu-driven command-line calculator built with Python. It supports addition, subtraction, multiplication, and division, including safe handling of division by zero.Features•Four basic arithmetic operations•Interactive menu loop•Decimal number support•Division-by-zero protection•Exit optionConcepts practicedPython functions, user input, type conversion, conditional logic, loops, and basic error handling.Run locallypython calculator.pyIf the Python file has a different name, replace calculator.py with the actual filename.
 
 def add(a, b):
     return a + b
